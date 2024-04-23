@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **iipg2244@hotmail.com**
 
-- 📄 Know about my experiences [https://iipg2244.github.io](https://iipg2244.github.io)
+- 📄 Know about my experiences [https://www.iipg2244.com](https://www.iipg2244.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
