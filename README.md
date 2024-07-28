@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isaac Portilla</h1>
 <h3 align="center">I am a passionate Full-Stack developer in Microsoft on-premise or cloud environments.</h3>
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **iipg2244@hotmail.com**
 
