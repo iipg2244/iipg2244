@@ -42,9 +42,9 @@
         <img src="assets/img/icons8-bootstrap.svg"
             alt="bootstrap" width="40" height="40" />
     </a>
-     <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer">
-        <img src="assets/img/xamarin-svgrepo-com.svg"
-            alt="xamarin" width="40" height="40" />
+     <a href="https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor" target="_blank" rel="noreferrer">
+        <img src="assets/img/blazor-svgrepo-com.svg"
+            alt="blazor" width="40" height="40" />
     </a>   
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
         <img src="assets/img/icons8-c.svg"
