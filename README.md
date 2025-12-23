@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isaac Portilla</h1>
 <h3 align="center">I am a passionate Full-Stack developer in Microsoft on-premise or cloud environments.</h3>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **iipg2244@hotmail.com**
 
@@ -54,9 +54,9 @@
         <img src="assets/img/icons8-.net-framework.svg"
             alt="dotnet" width="40" height="40" />
     </a>
-    <a href="https://angular.io" target="_blank" rel="noreferrer">
-        <img src="assets/img/icons8-angular.svg"
-            alt="angularjs" width="40" height="40" />
+    <a href="https://es.react.dev/" target="_blank" rel="noreferrer">
+        <img src="assets/img/icons8-reaccionar-nativo.svg"
+            alt="reactjs" width="40" height="40" />
     </a>  
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img src="assets/img/icons8-typescript.svg"
