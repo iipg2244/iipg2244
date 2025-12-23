@@ -55,7 +55,7 @@
             alt="dotnet" width="40" height="40" />
     </a>
     <a href="https://es.react.dev/" target="_blank" rel="noreferrer">
-        <img src="assets/img/icons8-reaccionar-nativo.svg"
+        <img src="assets/img/icons8-reaccionar-nativo.png"
             alt="reactjs" width="40" height="40" />
     </a>  
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
